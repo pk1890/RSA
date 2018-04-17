@@ -1,0 +1,10 @@
+c:\users\piotr\documents\visual studio 2012\Projects\Szyfr RSA\Szyfr RSA\bin\Debug\Szyfr RSA.exe.config
+c:\users\piotr\documents\visual studio 2012\Projects\Szyfr RSA\Szyfr RSA\bin\Debug\Szyfr RSA.exe
+c:\users\piotr\documents\visual studio 2012\Projects\Szyfr RSA\Szyfr RSA\bin\Debug\Szyfr RSA.pdb
+c:\users\piotr\documents\visual studio 2012\Projects\Szyfr RSA\Szyfr RSA\obj\Debug\Szyfr RSA.csprojResolveAssemblyReference.cache
+c:\users\piotr\documents\visual studio 2012\Projects\Szyfr RSA\Szyfr RSA\obj\Debug\Szyfr_RSA.Properties.Resources.resources
+c:\users\piotr\documents\visual studio 2012\Projects\Szyfr RSA\Szyfr RSA\obj\Debug\Szyfr RSA.csproj.GenerateResource.Cache
+c:\users\piotr\documents\visual studio 2012\Projects\Szyfr RSA\Szyfr RSA\obj\Debug\Szyfr RSA.exe
+c:\users\piotr\documents\visual studio 2012\Projects\Szyfr RSA\Szyfr RSA\obj\Debug\Szyfr RSA.pdb
+C:\Users\Piotr\documents\visual studio 2012\Projects\Szyfr RSA\Szyfr RSA\obj\Debug\Szyfr_RSA.Form1.resources
+C:\Users\Piotr\documents\visual studio 2012\Projects\Szyfr RSA\Szyfr RSA\obj\Debug\Szyfr_RSA.generator_klucza.resources
